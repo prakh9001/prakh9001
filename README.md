@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
+<h1 align="center">Hi 👋, I'm Aniket Kumar Jha</h1>
 <h3 align="center">A dedicated mobile app developer from India.</h3>
 
 - 🌱 I’m currently learning **data science, Mobile Backend**

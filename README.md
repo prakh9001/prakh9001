@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
 <h3 align="center">A dedicated mobile app developer from India.</h3>
 
-- 🌱 I’m currently learning **data science, cyber security**
+- 🌱 I’m currently learning **data science, Mobile Backend**
 
 - 💬 Ask me about **android studio**
 
-- 📫 How to reach me **prakh90@gmail.com**
+- 📫 How to reach me **aniket260202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
